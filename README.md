@@ -1,19 +1,20 @@
 # SME Contract Risk Analyzer
 
-This repository contains a lightweight prototype tool designed to help small and medium enterprises (SMEs) assess risk in service contracts using basic NLP and rule-based logic.
+A GenAI-powered prototype that helps Small and Medium Enterprises (SMEs) understand service contracts, identify risky clauses, and receive simple explanations using basic NLP and rule-based logic.
 
-## 🧠 What It Does
+## 🔹 Problem Statement
+SMEs often sign legal contracts without clearly understanding complex legal clauses such as termination rights, indemnity, auto-renewals, or jurisdiction terms. This system analyzes contracts and highlights potential risks in a simple and explainable manner.
 
-The SME Contract Risk Analyzer:
+## 🔹 Solution Overview
+The application extracts text from contracts, identifies important clauses, extracts entities like parties and dates, and applies rule-based risk scoring. Each clause is labeled as Low, Medium, or High risk and displayed through a Streamlit web interface.
 
-- Accepts PDFs and TXT contract files
-- Extracts key entities like parties, dates, amounts, and jurisdiction
-- Segments text into clauses
-- Assigns risk labels (Low, Medium, High) to each clause
-- Displays clause explanations in plain business language
-- Computes a composite contract-level risk score
-
-This tool is designed for non-legal users to understand contract risks quickly and in a transparent way.
+## 🔹 Features
+- Upload PDF or TXT contract
+- Clause extraction
+- Named Entity Recognition (Parties, Dates, Amounts, Locations)
+- Rule-based risk detection
+- Overall contract risk score
+- Simple clause explanations
 
 ## 🚀 Live Demo
 
