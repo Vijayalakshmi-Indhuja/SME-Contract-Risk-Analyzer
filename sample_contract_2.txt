@@ -1,0 +1,42 @@
+CONSULTING SERVICES AGREEMENT
+
+This Consulting Services Agreement ("Agreement") is made on 01 February 2026 between BrightSoft Solutions Pvt Ltd ("Consultant") and GreenMart Stores ("Company").
+
+1. Services
+The Consultant shall provide IT consulting and system support services to the Company.
+
+2. Fees and Payment
+The Company agrees to pay the Consultant INR 180,000 within 15 days from the invoice date.
+
+Failure to make payment on time shall result in a penalty of 1.5% per month.
+
+3. Termination
+The Company may terminate this Agreement at any time without assigning any reason.
+
+The Consultant must provide at least 60 days prior notice for termination.
+
+4. Liability
+The Consultant shall be fully liable for any damages arising out of the services.
+
+5. Indemnity
+The Consultant agrees to indemnify, defend, and hold harmless the Company from all claims.
+
+6. Confidentiality
+Both parties shall keep all business information strictly confidential.
+
+7. Non-Compete
+The Consultant shall not engage in competing business for a period of two years.
+
+8. Governing Law
+This Agreement shall be governed by and construed in accordance with the laws of India.
+
+9. Jurisdiction
+Courts at Bengaluru shall have exclusive jurisdiction.
+
+IN WITNESS WHEREOF, both parties have executed this Agreement.
+
+For BrightSoft Solutions Pvt Ltd
+Authorized Signatory
+
+For GreenMart Stores
+Authorized Signatory
