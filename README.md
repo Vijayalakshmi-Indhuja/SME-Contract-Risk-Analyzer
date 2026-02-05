@@ -16,24 +16,24 @@ The application extracts text from contracts, identifies important clauses, extr
 - Overall contract risk score
 - Simple clause explanations
 
-## 🚀 Live Demo
+## 🔹 Live Demo
 
 Try the live deployed app here:  
 
 👉  https://vijayalakshmi-sme-contract-risk-analyzer.streamlit.app
 
-## 📦 Project Structure
+## 🔹 Project Structure
 <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/8c8bab8a-4dc8-41bb-b343-6b9df7835116" />
 
 
-## 🛠 Tech Stack
+## 🔹 Tech Stack
 
 - Python
 - spaCy (NLP)
 - pdfplumber (PDF text extraction)
 - Streamlit (Web UI)
 
-## 🧪 How to Run Locally
+## 🔹 How to Run Locally
 
 1. Clone this repository
 2. Install dependencies:
