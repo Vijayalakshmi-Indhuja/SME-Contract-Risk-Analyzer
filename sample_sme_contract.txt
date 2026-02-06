@@ -1,0 +1,54 @@
+SERVICE AGREEMENT
+
+This Service Agreement (“Agreement”) is made on 06 February 2026,
+between:
+
+ABC Technologies Pvt Ltd, having its registered office in Chennai, India
+(hereinafter referred to as “Service Provider”),
+
+AND
+
+XYZ Retail Solutions LLP, having its principal place of business in
+Bengaluru, India (hereinafter referred to as “Client”).
+
+1.  SCOPE OF SERVICES The Service Provider agrees to deliver software
+    development and maintenance services as outlined in Schedule A of
+    this Agreement.
+
+2.  PAYMENT TERMS The Client agrees to pay INR 5,00,000 (Rupees Five
+    Lakhs Only) for the services. Payments shall be made within 30 days
+    of invoice receipt.
+
+3.  INDEMNITY CLAUSE The Client agrees to indemnify, defend, and hold
+    harmless the Service Provider from and against any and all claims,
+    liabilities, damages, losses, and expenses arising out of or related
+    to the Client’s misuse of the services or breach of this Agreement.
+
+4.  PENALTY CLAUSE In the event of delayed payment beyond 30 days, the
+    Client shall be liable to pay a penalty of 2% per month on the
+    outstanding amount.
+
+5.  TERMINATION CLAUSE Either party may terminate this Agreement by
+    providing 15 days written notice. The Service Provider may terminate
+    the Agreement without notice at its sole discretion in case of
+    material breach by the Client.
+
+6.  AUTO-RENEWAL CLAUSE This Agreement shall automatically renew for
+    successive one-year terms unless either party provides written
+    notice of non-renewal at least 30 days prior to the expiration of
+    the current term.
+
+7.  CONFIDENTIALITY Both parties agree to maintain confidentiality of
+    proprietary information exchanged under this Agreement.
+
+8.  GOVERNING LAW AND JURISDICTION This Agreement shall be governed by
+    and construed in accordance with the laws of India. Any disputes
+    arising under this Agreement shall be subject to the exclusive
+    jurisdiction of courts in Chennai, Tamil Nadu.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the
+date first written above.
+
+For ABC Technologies Pvt Ltd Authorized Signatory
+
+For XYZ Retail Solutions LLP Authorized Signatory
