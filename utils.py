@@ -1,25 +1,19 @@
-import spacy
-
-nlp = spacy.load("en_core_web_sm")
-
+import re
 
 def get_entities(text):
-    doc = nlp(text)
+    # Simple regex-based entity extraction
 
-    parties = []
-    dates = []
-    amounts = []
-    locations = []
+    # Extract possible organization names (basic capitalized words pattern)
+    parties = re.findall(r'\b[A-Z][A-Za-z& ]+(?:Ltd|LLC|Inc|Corporation|Company)?\b', text)
 
-    for ent in doc.ents:
-        if ent.label_ == "ORG":
-            parties.append(ent.text)
-        elif ent.label_ == "DATE":
-            dates.append(ent.text)
-        elif ent.label_ == "MONEY":
-            amounts.append(ent.text)
-        elif ent.label_ in ["GPE", "LOC"]:
-            locations.append(ent.text)
+    # Extract dates (basic formats)
+    dates = re.findall(r'\b\d{1,2}[/-]\d{1,2}[/-]\d{2,4}\b', text)
+
+    # Extract money amounts ($1000, ₹5000 etc.)
+    amounts = re.findall(r'(?:\$|₹)\s?\d+(?:,\d{3})*(?:\.\d{2})?', text)
+
+    # Extract locations (simple capitalized words assumption)
+    locations = re.findall(r'\b(?:in|at|from)\s+([A-Z][a-zA-Z]+)', text)
 
     return {
         "Parties": list(set(parties)),
